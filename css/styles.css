@@ -188,7 +188,7 @@ header {
 
 
 .sub-headline {
-    font-size: 6.5rem;
+    font-size: 4.2rem;
     font-family: var(--secondary-font);
     color: var(--secondary-font-color);
     font-weight: 100;
@@ -202,12 +202,12 @@ header {
 
 .first-letter {
     text-transform: uppercase;
-    font-size: 8.3rem;
+    font-size: 6.3rem;
 }
 
 .headline {
     color: #fff;
-    font-size: 3.7rem;
+    font-size: 2.7rem;
     font-family: var(--main-font);
     text-transform: uppercase;
     font-weight: 900;
